@@ -7,4 +7,5 @@ WARNING, WHEN YOU WILL RUN REZSTRAFE.EXE, YOU WILL HAVE ERROR WINDOW, CLICK "Can
 
 # ChangeLog
 Fixed some strafes bugs
-Added var for "AirSpeed" in "RezStrafe.ini"
+
+Now you can change your airspeed, to change it find "AirSpeed" line in "RezStrafe.ini" file
